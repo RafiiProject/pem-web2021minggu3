@@ -1,0 +1,89 @@
+.utama{
+    width: 75%;
+    margin: auto;
+}
+img{
+    width: 200px;
+    margin-left: 25px;
+    border: 5px solid white;
+    box-shadow: 0.2px 0.2px black;
+    border: 0.1 solid #e4e3e1;
+}
+.bag1{
+    width: 25%;
+    margin-right: 10px;
+}
+.bag2{
+        width: 50% !important;
+        margin-left: -100px;
+        border-top-style: solid; border-top-color: red;
+
+}
+.a{
+    float: left;
+    width: 30%;
+}
+.b{
+    width: 30%;
+    float: left;
+}
+
+.value p{
+    margin-left: -150px;
+}
+p{
+    border-bottom-color:grey;
+    border-bottom-style: solid; 
+    border-width: .5px;
+    border-bottom-style: dotted;
+}
+p:last-child{
+    margin-top: 10px;
+}
+
+.garis{
+    border-bottom-color: none !important;
+    border-bottom-style: none !important; 
+}
+.warnatabel{
+    clear: left;
+    background-color: white;
+    padding: 8px 10px 30px 10px;
+    margin: 0px 100px 0px 0px;
+    border: 0.1px solid #e4e3e1;
+    box-shadow: 0.2px 0.2px black;
+}
+table{
+    background-color: white;
+    width: 100%;
+    border-width: 0.5px;
+    
+}
+table, th, td {
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    border-width: 0.5px;
+}
+.ilang{
+    color: #f3f1ec;
+}
+body{
+    background-color: #f3f1ec;
+}
+th{
+    background-color: #20485a;
+    color: white;
+}
+/* tr:nth-child(2){
+    background-color: lightblue;
+}
+tr:nth-child(4){
+    background-color: lightblue;
+}
+tr:nth-child(6){
+    background-color: lightblue;
+}
+tr:nth-child(8){
+    background-color: lightblue;
+} */
